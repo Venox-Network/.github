@@ -11,7 +11,7 @@
 🧙 Make sure to join the [Discord](https://venox.network/discord) :)
 
 
-### Verified Domains:
+### Verified Domains
 
 These are the domains we own, any others are not ours:
 
