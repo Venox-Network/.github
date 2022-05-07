@@ -9,3 +9,14 @@
 🍿 Venox Network started as one Discord channels to publish updates for all the servers we administrated
 
 🧙 Make sure to join the [Discord](https://venox.network/discord) :)
+
+
+### Verified Domains:
+
+These are the domains we own, any others are not ours:
+
+- https://chrizftw.cf
+- https://bapplause.xyz
+- https://simpearth.xyz
+- https://srnyx.xyz
+- https://venox.network
