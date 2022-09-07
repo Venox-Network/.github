@@ -15,8 +15,7 @@
 
 These are the domains we own, any others are not ours:
 
-- https://chrizftw.cf
+- https://chriz.cf
 - https://bapplause.xyz
-- https://simpearth.xyz
 - https://srnyx.xyz
 - https://venox.network
