@@ -6,7 +6,7 @@
 
 👩‍💻 You can find all the info about us at https://venox.network
 
-🍿 Venox Network started as one Discord channels to publish updates for all the servers we administrated
+🍿 Venox Network started as one Discord channel to publish updates for all the servers we administrated
 
 🧙 Make sure to join the [Discord](https://venox.network/discord) :)
 
