@@ -15,7 +15,6 @@
 
 These are the domains we own, any others are not ours:
 
-- https://chriz.cf
-- https://bapplause.xyz
-- https://srnyx.xyz
 - https://venox.network
+- https://srnyx.xyz
+- https://chriz.cf
