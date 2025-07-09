@@ -18,4 +18,5 @@ These are the domains we own, any others are not ours:
 - https://venox.network
 - https://srnyx.com
 - https://srnyx.xyz
-- https://chriz.cf
+- https://chrizxz.com
+- https://eventalerts.gg
